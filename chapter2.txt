@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fuck you
+=======
+to fuck alien
+>>>>>>> alien
